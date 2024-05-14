@@ -4,7 +4,7 @@ const lista = document.querySelector("[data-lista]");
 
 function constroiCard(titulo, descricao, url, imagem) {
   //criando um elemento li
-  //template strings
+  //template strings com inner html para criar um elemento li dinamico
   const video = document.createElement("li");
   video.className = "videos__item";
   video.innerHTML = `<iframe width="100%" height="72%" src="${url}"

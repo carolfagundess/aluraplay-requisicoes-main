@@ -71,17 +71,17 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Mercado de Trabalho | Desmistificando Mobile - Episódio 5",
+      "descricao": "1,1 mil visualizações",
+      "url": "https://www.youtube.com/embed/YhnNOTde2I0",
+      "imagem": "./img/logo.png",
       "id": 11
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "titulo": "Guia de Carreira: Cibersegurança",
+      "descricao": "6,1 mil visualizações",
+      "url": "https://www.youtube.com/embed/BcK0sTah8rA?si=ApUddsoySO8g2kRo",
+      "imagem": "./img/logo.png",
       "id": 12
     }
   ]
