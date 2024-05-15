@@ -22,6 +22,11 @@ async function criaVideo(titulo, descricao, url, imagem) {
     }),
   });
 
+  //condição pra testar se conexão não estiver ok, envia mensagem de erro
+  if (!conexao.ok) {
+    throw new Error("Não foi possível enviar o vídeo");
+  }
+
   //variavel para receber o json
   const conexaoConvertida = await conexao.json();
   return conexaoConvertida;
